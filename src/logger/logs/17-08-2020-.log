@@ -1,0 +1,315 @@
+{"message":"loaded configs from .env file","level":"info"}
+{"message":"API Started with port 40000","level":"info"}
+{"message":"Mongo DB connection established","level":"info"}
+{"message":"loaded configs from .env file","level":"info"}
+{"message":"API Started with port 40000","level":"info"}
+{"message":"Mongo DB connection established","level":"info"}
+{"message":"loaded configs from .env file","level":"info"}
+{"message":"API Started with port 40000","level":"info"}
+{"message":"Mongo DB connection established","level":"info"}
+{"message":"loaded configs from .env file","level":"info"}
+{"message":"API Started with port 40000","level":"info"}
+{"message":"Mongo DB connection established","level":"info"}
+{"message":"loaded configs from .env file","level":"info"}
+{"message":"API Started with port 40000","level":"info"}
+{"message":"Mongo DB connection established","level":"info"}
+{"level":"error"}
+{"message":"loaded configs from .env file","level":"info"}
+{"message":"API Started with port 40000","level":"info"}
+{"message":"Mongo DB connection established","level":"info"}
+{"message":"loaded configs from .env file","level":"info"}
+{"message":"API Started with port 40000","level":"info"}
+{"message":"Mongo DB connection established","level":"info"}
+{"message":"loaded configs from .env file","level":"info"}
+{"message":"API Started with port 40000","level":"info"}
+{"message":"Mongo DB connection established","level":"info"}
+{"message":"loaded configs from .env file","level":"info"}
+{"message":"API Started with port 40000","level":"info"}
+{"message":"Mongo DB connection established","level":"info"}
+{"message":"loaded configs from .env file","level":"info"}
+{"message":"API Started with port 40000","level":"info"}
+{"message":"Mongo DB connection established","level":"info"}
+{"message":"loaded configs from .env file","level":"info"}
+{"message":"API Started with port 40000","level":"info"}
+{"message":"Mongo DB connection established","level":"info"}
+{"level":"error"}
+{"message":"loaded configs from .env file","level":"info"}
+{"message":"API Started with port 40000","level":"info"}
+{"message":"Mongo DB connection established","level":"info"}
+{"level":"error"}
+{"message":"loaded configs from .env file","level":"info"}
+{"message":"API Started with port 40000","level":"info"}
+{"message":"Mongo DB connection established","level":"info"}
+{"level":"error"}
+{"message":"loaded configs from .env file","level":"info"}
+{"message":"API Started with port 40000","level":"info"}
+{"message":"Mongo DB connection established","level":"info"}
+{"level":"error"}
+{"message":"loaded configs from .env file","level":"info"}
+{"message":"API Started with port 40000","level":"info"}
+{"message":"Mongo DB connection established","level":"info"}
+{"message":"loaded configs from .env file","level":"info"}
+{"message":"API Started with port 40000","level":"info"}
+{"message":"Mongo DB connection established","level":"info"}
+{"message":"loaded configs from .env file","level":"info"}
+{"message":"API Started with port 40000","level":"info"}
+{"message":"Mongo DB connection established","level":"info"}
+{"message":"loaded configs from .env file","level":"info"}
+{"message":"API Started with port 40000","level":"info"}
+{"message":"Mongo DB connection established","level":"info"}
+{"message":"loaded configs from .env file","level":"info"}
+{"message":"API Started with port 40000","level":"info"}
+{"message":"Mongo DB connection established","level":"info"}
+{"message":"loaded configs from .env file","level":"info"}
+{"message":"API Started with port 40000","level":"info"}
+{"message":"Mongo DB connection established","level":"info"}
+{"message":"loaded configs from .env file","level":"info"}
+{"message":"API Started with port 40000","level":"info"}
+{"message":"Mongo DB connection established","level":"info"}
+{"message":"POST --> /","level":"info"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:06:07.330Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:06:07.348Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:06:07.358Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:06:27.906Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:06:27.924Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:06:27.935Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:09:11.627Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:09:11.644Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:09:11.655Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:09:36.605Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:09:36.626Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:09:36.640Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:09:45.039Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:09:45.060Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:09:45.072Z"}
+{"level":"info","message":"POST --> /","timestamp":"2020-08-17T04:12:04.831Z"}
+{"level":"info","message":"POST --> /auth","timestamp":"2020-08-17T04:12:18.317Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:14:11.405Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:14:11.425Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:14:11.437Z"}
+{"level":"info","message":"POST --> /auth","timestamp":"2020-08-17T04:14:16.963Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:23:18.971Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:23:18.990Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:23:19.001Z"}
+{"level":"info","message":"POST --> /auth","timestamp":"2020-08-17T04:23:43.171Z"}
+{"level":"info","message":"POST --> /auth/register","timestamp":"2020-08-17T04:23:51.809Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:26:15.011Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:26:15.030Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:26:15.041Z"}
+{"level":"info","message":"POST --> /auth/register","timestamp":"2020-08-17T04:26:19.461Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:27:14.310Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:27:14.327Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:27:14.339Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:27:48.079Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:27:48.102Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:27:48.114Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:28:14.984Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:28:15.008Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:28:15.021Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:28:59.790Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:28:59.809Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:28:59.822Z"}
+{"level":"info","message":"POST --> /auth/register","timestamp":"2020-08-17T04:29:09.002Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:29:55.234Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:29:55.256Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:29:55.270Z"}
+{"level":"info","message":"POST --> /auth/register","timestamp":"2020-08-17T04:30:04.060Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:30:37.484Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:30:37.502Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:30:37.514Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:30:47.129Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:30:47.148Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:30:47.160Z"}
+{"level":"info","message":"POST --> /auth/register","timestamp":"2020-08-17T04:31:01.572Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:32:01.452Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:32:01.473Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:32:01.486Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:32:13.801Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:32:13.821Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:32:13.832Z"}
+{"level":"info","message":"POST --> /auth/register","timestamp":"2020-08-17T04:32:24.717Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:33:19.901Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:33:19.918Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:33:19.930Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:34:23.098Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:34:23.117Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:34:23.128Z"}
+{"level":"info","message":"POST --> /auth/register","timestamp":"2020-08-17T04:34:26.544Z"}
+{"level":"info","message":"POST --> /auth/register","timestamp":"2020-08-17T04:35:01.452Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:38:26.445Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:38:26.467Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:38:26.480Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:39:04.156Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:39:04.173Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:39:04.184Z"}
+{"level":"info","message":"POST --> /auth/register","timestamp":"2020-08-17T04:39:22.643Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:41:46.025Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:41:46.044Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:41:46.058Z"}
+{"level":"info","message":"POST --> /auth/register","timestamp":"2020-08-17T04:41:57.761Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:43:26.946Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:43:26.966Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:43:26.977Z"}
+{"level":"info","message":"POST --> /auth/register","timestamp":"2020-08-17T04:43:33.825Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:45:34.983Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:45:35.003Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:45:35.016Z"}
+{"level":"info","message":"POST --> /auth/register","timestamp":"2020-08-17T04:45:36.168Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:50:11.454Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:50:11.472Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:50:11.486Z"}
+{"level":"info","message":"POST --> /auth/register","timestamp":"2020-08-17T04:50:16.117Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:50:29.064Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:50:29.082Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:50:29.093Z"}
+{"level":"info","message":"POST --> /auth/register","timestamp":"2020-08-17T04:50:30.906Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:50:43.088Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:50:43.111Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:50:43.127Z"}
+{"level":"info","message":"POST --> /auth/register","timestamp":"2020-08-17T04:50:44.874Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:52:45.428Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:52:45.446Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:52:45.457Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:53:29.990Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:53:30.010Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:53:30.022Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:53:35.520Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:53:35.540Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:53:35.551Z"}
+{"level":"info","message":"POST --> /auth/register","timestamp":"2020-08-17T04:53:49.311Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:54:52.531Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:54:52.550Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:54:52.561Z"}
+{"level":"info","message":"POST --> /auth/register","timestamp":"2020-08-17T04:54:57.224Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:55:13.640Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:55:13.660Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:55:13.671Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:55:19.567Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:55:19.585Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:55:19.597Z"}
+{"level":"info","message":"POST --> /auth/register","timestamp":"2020-08-17T04:55:26.566Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:56:05.917Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:56:05.934Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:56:05.946Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:57:01.863Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:57:01.881Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:57:01.892Z"}
+{"level":"info","message":"POST --> /auth/register","timestamp":"2020-08-17T04:57:11.017Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:57:37.456Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:57:37.475Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:57:37.487Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:59:14.552Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:59:14.570Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:59:14.581Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T04:59:24.479Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T04:59:24.499Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T04:59:24.511Z"}
+{"level":"info","message":"POST --> /auth/register","timestamp":"2020-08-17T05:01:02.451Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T05:07:11.273Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T05:07:11.294Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T05:07:11.307Z"}
+{"level":"info","message":"POST --> /auth/register","timestamp":"2020-08-17T05:07:20.993Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T05:07:55.481Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T05:07:55.500Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T05:07:55.511Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T05:08:03.084Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T05:08:03.104Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T05:08:03.117Z"}
+{"level":"info","message":"POST --> /auth/register","timestamp":"2020-08-17T05:08:12.743Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T05:08:25.122Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T05:08:25.144Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T05:08:25.157Z"}
+{"level":"info","message":"POST --> /auth/register","timestamp":"2020-08-17T05:08:33.780Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T05:08:53.289Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T05:08:53.307Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T05:08:53.320Z"}
+{"level":"info","message":"POST --> /auth/register","timestamp":"2020-08-17T05:09:01.107Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T05:09:18.657Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T05:09:18.674Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T05:09:18.685Z"}
+{"level":"info","message":"POST --> /auth/register","timestamp":"2020-08-17T05:09:29.447Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T05:14:50.131Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T05:14:50.149Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T05:14:50.160Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T05:16:51.457Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T05:16:51.477Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T05:16:51.488Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T05:17:46.170Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T05:17:46.187Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T05:17:46.197Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T05:18:03.904Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T05:18:03.925Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T05:18:03.936Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T05:19:43.790Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T05:19:43.808Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T05:19:43.819Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T05:23:44.438Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T05:23:44.459Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T05:23:44.469Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T05:26:08.927Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T05:26:08.944Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T05:26:08.954Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T05:26:38.929Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T05:26:38.948Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T05:26:38.959Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T05:30:07.190Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T05:30:07.209Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T05:30:07.219Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T05:32:24.297Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T05:32:24.316Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T05:32:24.326Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T05:39:52.417Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T05:39:52.436Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T05:39:52.447Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T05:40:04.258Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T05:40:04.277Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T05:40:04.287Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T05:40:11.482Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T05:40:11.498Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T05:40:11.508Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T05:40:54.681Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T05:40:54.699Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T05:40:54.709Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T05:41:04.338Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T05:41:04.355Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T05:41:04.365Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T05:50:10.404Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T05:50:10.421Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T05:50:10.431Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T05:51:21.160Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T05:51:21.177Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T05:51:21.187Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T05:51:34.153Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T05:51:34.170Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T05:51:34.180Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T05:51:50.949Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T05:51:50.966Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T05:51:50.976Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T05:52:51.010Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T05:52:51.029Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T05:52:51.040Z"}
+{"level":"info","message":"POST --> /auth/login","timestamp":"2020-08-17T06:27:34.556Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T06:28:00.880Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T06:28:00.900Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T06:28:00.914Z"}
+{"level":"info","message":"POST --> /auth/login","timestamp":"2020-08-17T06:28:03.708Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T06:28:49.403Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T06:28:49.421Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T06:28:49.433Z"}
+{"level":"info","message":"POST --> /auth/login","timestamp":"2020-08-17T06:28:54.743Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T06:29:13.408Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T06:29:13.426Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T06:29:13.437Z"}
+{"level":"info","message":"POST --> /auth/login","timestamp":"2020-08-17T06:29:15.864Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T06:29:25.032Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T06:29:25.050Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T06:29:25.062Z"}
+{"level":"info","message":"POST --> /auth/login","timestamp":"2020-08-17T06:29:26.190Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T06:29:43.296Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T06:29:43.319Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T06:29:43.333Z"}
+{"level":"info","message":"POST --> /auth/login","timestamp":"2020-08-17T06:29:44.556Z"}
+{"level":"info","message":"loaded configs from .env file","timestamp":"2020-08-17T06:30:04.020Z"}
+{"level":"info","message":"API Started with port 40000","timestamp":"2020-08-17T06:30:04.038Z"}
+{"level":"info","message":"Mongo DB connection established","timestamp":"2020-08-17T06:30:04.049Z"}
+{"level":"info","message":"POST --> /auth/login","timestamp":"2020-08-17T06:30:11.020Z"}
