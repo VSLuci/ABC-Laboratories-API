@@ -1,5 +1,5 @@
 import mongoose, { Schema } from 'mongoose'
-import bcrypt from 'bcrypt'
+import { compare, genSalt, hash } from 'bcrypt'
 
 const SALT_WORK_FACTOR = 10
 
@@ -36,10 +36,10 @@ UserSchema.pre('save', function (next) {
 
 	if (!user.isModified('password')) return next()
 
-	bcrypt.genSalt(SALT_WORK_FACTOR, (error, salt) => {
+	genSalt(SALT_WORK_FACTOR, (error, salt) => {
 		if (error) return next(error)
 
-		bcrypt.hash(user.password, salt, (error, hash) => {
+		hash(user.password, salt, (error, hash) => {
 			if (error) return next(error)
 
 			user.password = hash
@@ -49,7 +49,7 @@ UserSchema.pre('save', function (next) {
 })
 
 UserSchema.methods.comparePassword = async function (claimantPassword) {
-	return await bcrypt.compare(claimantPassword, this.password)
+	return await compare(claimantPassword, this.password)
 }
 
 const User = mongoose.model('user', UserSchema)
